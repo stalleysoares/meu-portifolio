@@ -1,12 +1,12 @@
 const data = [{
         img: './projeto.png',
         titulo: 'Meu Portfólio',
-        link: '#'
+        link: 'https://github.com/stalleysoares/meu-portifolio'
     },
     {
         img: './projeto.png',
         titulo: 'Meu Portfólio React',
-        link: '#'
+        link: 'https://github.com/stalleysoares/meu-portifolio-react'
     }
 
 ];
